@@ -68,10 +68,6 @@ The objective of this notebook is to provide a comprehensive analysis and optimi
 
 
 
-License
-This project is not under any license
-
-
 
 Author
 Mohd Kaif
